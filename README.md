@@ -10,7 +10,7 @@ Domain Name: Full Stack Web Development
 
 Batch Duration: 8 Weeks
 
-Mentor Name: Nila Santos
+Mentor Name: Neela Santosh
 
 # CollabDocs — Real-Time Collaborative Document Editor
 ## Architecture Overview
